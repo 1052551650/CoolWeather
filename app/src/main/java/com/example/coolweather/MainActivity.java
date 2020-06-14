@@ -1,4 +1,4 @@
-package com.coolweather.android;
+package com.example.coolweather;
 
 import androidx.appcompat.app.AppCompatActivity;
 
